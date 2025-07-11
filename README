@@ -1,5 +1,3 @@
-# estherwambui-association-mini
-
 This project is a mini assignment on **Association Rule Mining** using the **Apriori algorithm**. It involves simulating shopping transaction data, analyzing frequent itemsets, and generating association rules to discover common shopping patterns.
 
 ---
